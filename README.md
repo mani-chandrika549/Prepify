@@ -40,6 +40,7 @@ git clone https://github.com/mani-chandrika549/Prepify.git
 ### 4. Run on Browser:
 ```bash
 http://localhost:8080/Prepify/
+```
 
 ---
 
