@@ -41,3 +41,32 @@ git clone https://github.com/mani-chandrika549/Prepify.git
 ```bash
 http://localhost:8080/Prepify/
 
+---
+
+## 🎮 Topics Covered in Quiz
+
+- 🧮 **Aptitude & Logical Reasoning**
+- ☕ **Java (OOP + Core)**
+- 🔁 **Data Structures & Algorithms**
+- 🗃️ **SQL & DBMS**
+- 💻 **Operating System**
+- 🌐 **Computer Networks**
+- 🖥️ **Web Technologies (HTML/CSS/JS)**
+- 💡 **Project-based Logic**
+
+---
+
+## 👩‍💻 Developer
+
+**Mani Chandrika**  
+💌 [mani-chandrika549](https://github.com/mani-chandrika549)  
+📌 Passionate about building full stack apps, real-world logic, and placements
+
+---
+
+## 🏁 License
+
+**MIT License** – free to use, modify, and build upon.
+
+> “**Prep smart, place better with Prepify 🚀**”
+
