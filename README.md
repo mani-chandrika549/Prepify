@@ -57,6 +57,19 @@ http://localhost:8080/Prepify/
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](https://github.com/mani-chandrika549/Prepify/blob/main/screenshots/homepage.png?raw=true)
+
+### 📝 Quiz Page
+![Quiz Page](https://github.com/mani-chandrika549/Prepify/blob/main/screenshots/quiz.png?raw=true)
+
+### 📊 Result Page
+![Result Page](https://github.com/mani-chandrika549/Prepify/blob/main/screenshots/result.png?raw=true)
+
+---
+
 ## 👩‍💻 Developer
 
 **Mani Chandrika**  
