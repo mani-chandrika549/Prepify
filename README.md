@@ -33,6 +33,7 @@
 ### 1. Clone the repo:
 ```bash
 git clone https://github.com/mani-chandrika549/Prepify.git
+```
 
 ### 2. Import into Eclipse as a Dynamic Web Project
 ### 3. Add to your Apache Tomcat Server
