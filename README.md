@@ -24,7 +24,6 @@
 - `JSP & Servlets`
 - `HTML5`, `CSS3`, `Bootstrap`
 - `JavaScript`
-- `MySQL` *(if backend extended)*
 - `Apache Tomcat`
 
 ---
@@ -34,3 +33,10 @@
 ### 1. Clone the repo:
 ```bash
 git clone https://github.com/mani-chandrika549/Prepify.git
+
+### 2. Import into Eclipse as a Dynamic Web Project
+### 3. Add to your Apache Tomcat Server
+### 4. Run on Browser:
+```bash
+http://localhost:8080/Prepify/
+
